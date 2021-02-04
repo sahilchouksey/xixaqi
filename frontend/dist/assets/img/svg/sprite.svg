@@ -1,0 +1,48 @@
+<svg fill="none" style="position: absolute; width: 0; height: 0; overflow: hidden;" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 1">
+<g id="icon-underline">
+<g id="icon-underline_2">
+<path d="M1 11.5L15 2L14.5 11.5L29 2L28.5 11.5L43 2V11.5L57 2V11.5L71 2V11.5L85.5 2V11.5L99 2V11.5L112.5 2V11.5L126.5 2V11.5L140.5 2V11.5" stroke="#0CBA31" stroke-width="2"/>
+</g>
+</g>
+<g id="icon-search">
+<g id="Frame" clip-path="url(#clip0)">
+<path id="Vector_11" d="M191.342 28.3412L181.793 18.1065" stroke="#463F3A"/>
+<path id="Vector_12" d="M183.466 18.9947C181.299 20.4976 178.632 21.194 175.965 20.9534C173.298 20.7128 170.815 19.5516 168.981 17.6877C167.148 15.8239 166.09 13.3854 166.005 10.8298C165.921 8.27422 166.817 5.77714 168.524 3.80705C170.232 1.83696 172.634 0.529249 175.279 0.129269C177.925 -0.270712 180.632 0.264522 182.894 1.63456C185.156 3.00459 186.816 5.11526 187.563 7.57059C188.31 10.0259 188.094 12.6572 186.953 14.9707L185.715 14.4145C186.714 12.3888 186.904 10.0849 186.249 7.93501C185.595 5.78512 184.141 3.93702 182.161 2.73742C180.181 1.53782 177.81 1.06917 175.493 1.41939C173.177 1.76961 171.074 2.91464 169.579 4.63965C168.084 6.36466 167.299 8.55111 167.373 10.7888C167.447 13.0265 168.373 15.1616 169.979 16.7936C171.584 18.4256 173.759 19.4423 176.094 19.653C178.429 19.8637 180.764 19.2539 182.661 17.9379L183.466 18.9947Z" fill="#463F3A"/>
+</g>
+</g>
+<g id="icon-arrow-bottom">
+<path d="M0.411621 1.40002L13.5881 12.6L27.5881 1.40002" stroke="#F4F3EE" stroke-width="2.5"/>
+</g>
+
+
+
+
+<g id="icon-bookmark-filled">
+<line id="Line 6" x1="113.768" y1="124.598" x2="126.325" y2="117.348" stroke="#CCCCCC"/>
+<line id="Line 7" x1="138.729" y1="125.42" x2="125.91" y2="117.16" stroke="#CCCCCC"/>
+<line id="Line 8" x1="113.5" y1="125" x2="113.5" y2="88" stroke="#CCCCCC"/>
+<line id="Line 9" x1="138.5" y1="125" x2="138.5" y2="88" stroke="#CCCCCC"/>
+<line id="Line 10" x1="113" y1="87.5" x2="139" y2="87.5" stroke="#CCCCCC"/>
+<path id="Vector 1" d="M126.5 116.5L114 124V88H138V124.5L126.5 116.5Z" fill="#CCCCCC" stroke="#CCCCCC"/>
+</g>
+<g id="icon-previous-page">
+<circle id="Ellipse 1" cx="15" cy="103" r="14" stroke="#0CBA31" stroke-width="2"/>
+<path id="Vector 3" d="M18 95L10 102.8L18 110" stroke="#0CBA31" stroke-width="2"/>
+</g>
+
+<g id="icon-bookmark" >
+
+
+
+<!-- <svg width="24" height="30"  fill="none" xmlns="http://www.w3.org/2000/svg"> -->
+<path d="M1 4.14286C1 3.30932 1.33112 2.50992 1.92052 1.92052C2.50992 1.33112 3.30932 1 4.14286 1H19.8571C20.6907 1 21.4901 1.33112 22.0795 1.92052C22.6689 2.50992 23 3.30932 23 4.14286V29.2857L12 23.7857L1 29.2857V4.14286Z"  stroke-width="0.293333" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- </svg> -->
+<!-- <path stroke-linecap="round" stroke-linejoin="round" stroke-width=".69" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"></path> -->
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="26" height="29" fill="white" transform="translate(166)"/>
+</clipPath>
+</defs>
+</svg>
