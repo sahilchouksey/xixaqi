@@ -742,7 +742,7 @@ body {
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: rgba(0, 0, 0, 0.2);
     color: transparent;
-    line-height: .85;
+    line-height: 1;
     margin-left: -1.5rem;
     position: relative;
     z-index: 50;
@@ -758,6 +758,12 @@ body {
     .header__info-con-1::before {
         margin-left: 0;
         font-size: 34rem;
+    }
+}
+
+@media only screen and (max-width: 37.5em) {
+    .header__info-con-1::before {
+        line-height: .85;
     }
 }
 
