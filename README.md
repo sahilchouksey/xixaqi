@@ -1,7 +1,7 @@
 # [XIXAQI](https://xixaqi.herokuapp.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Web app which provides a real-time forecast of air pollution along with weather.
+Your health is extremely important. [XIXAQI](https://xixaqi.herokuapp.com/) helps people all around the globe understand the air around them.
 
 ## LEGAL
 
