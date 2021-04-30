@@ -4,7 +4,7 @@
 Your health is extremely important. [XIXAQI](https://xixaqi.herokuapp.com/) helps people all around the globe understand the air around them.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahilchouksey/xixaqi/master/screenshot.png?token=AOF6NJB6MV562LOBF7KN2MLARQIMM" style="border-radius: 8px" alt="xixaqi"/>
+  <img src="https://raw.githubusercontent.com/sahilchouksey/xixaqi/master/screenshot.png?token=AOF6NJB6MV562LOBF7KN2MLARQIMM" style="max-width: 100%" alt="xixaqi"/>
 </p>
 
 ## LEGAL
