@@ -5,7 +5,7 @@ Your health is extremely important. [XIXAQI](https://xixaqi.onrender.com/) helps
 <br/>
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahilchouksey/xixaqi/master/screenshot.png?token=AOF6NJE5FAGJVX7CAM2ORS3ARQLWA" width="300" alt="xixaqi"/>
+  <img src="https://github.com/sahilchouksey/xixaqi/blob/master/screenshot.png?raw=true" width="300" alt="xixaqi"/>
 </p>
 
 ## LEGAL
