@@ -1,20 +1,20 @@
 //
-const express = require('express');
-const axios = require('axios');
+const express = require("express");
+const axios = require("axios");
 
 const router = express.Router();
 
-router.get('/*', async (req, res) => {
+router.get("/*", async (req, res, next) => {
   try {
-    const geo = req.url.split(';');
-    const lat = geo[0].split('lat=')[1];
-    const lng = geo[1].split('lng=')[1];
+    const geo = req.url.split(";");
+    const lat = geo[0].split("lat=")[1];
+    const lng = geo[1].split("lng=")[1];
 
     const BASE_URL = `https://openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${lng}&`;
 
     const params = new URLSearchParams({
-      units: 'metric',
-      appid: process.env.APP_ID
+      units: "metric",
+      appid: process.env.APP_ID,
     });
 
     // make a request to aqi api
